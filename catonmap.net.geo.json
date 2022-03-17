@@ -712,7 +712,7 @@
     "type": "Feature",
     "properties": {
       "layerOptions": {
-        "className": "zoomMin-15 zoomMax-19"
+        "className": "zoomMin-16 zoomMax-19"
       },
       "popupContent": "<a href='https://water.weather.gov/resources/hydrographs/gcdw1_hg.png'>Source</a>",
       "marker": {
@@ -737,7 +737,7 @@
     "properties": {
       "name": "Secret trails",
       "layerOptions": {
-        "className": "zoomMin-12 zoomMax-19",
+        "className": "zoomMin-1 zoomMax-19",
         "fillColor": "green",
         "opacity": 0.5
       },
